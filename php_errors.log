@@ -1,0 +1,584 @@
+[20-May-2025 06:50:12 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 06:50:12 Europe/Berlin] Raw POST data: 
+[20-May-2025 06:50:12 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 06:50:12 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 06:50:12 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Cache-Control] => max-age=0
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?1
+    [sec-ch-ua-platform] => "Android"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Referer] => http://localhost/GAME/patchnotes.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=vb9ac173131bgjp8cck2l7slhq
+)
+
+[20-May-2025 06:50:12 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => andy
+    [role] => user
+)
+
+[20-May-2025 06:50:12 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 06:50:12 Europe/Berlin] Database connection successful
+[20-May-2025 06:50:36 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 06:50:36 Europe/Berlin] Raw POST data: 
+[20-May-2025 06:50:36 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 06:50:36 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 06:50:36 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Cache-Control] => max-age=0
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?1
+    [sec-ch-ua-platform] => "Android"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Referer] => http://localhost/GAME/patchnotes.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=vb9ac173131bgjp8cck2l7slhq
+)
+
+[20-May-2025 06:50:36 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => andy
+    [role] => user
+)
+
+[20-May-2025 06:50:36 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 06:50:36 Europe/Berlin] Database connection successful
+[20-May-2025 06:53:36 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 06:53:36 Europe/Berlin] Raw POST data: 
+[20-May-2025 06:53:36 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 06:53:36 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 06:53:36 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?1
+    [sec-ch-ua-platform] => "Android"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Referer] => http://localhost/GAME/howtoplay.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=vb9ac173131bgjp8cck2l7slhq
+)
+
+[20-May-2025 06:53:36 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => andy
+    [role] => user
+)
+
+[20-May-2025 06:53:36 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 06:53:36 Europe/Berlin] Database connection successful
+[20-May-2025 06:53:54 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 06:53:54 Europe/Berlin] Raw POST data: 
+[20-May-2025 06:53:54 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 06:53:54 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 06:53:54 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?1
+    [sec-ch-ua-platform] => "Android"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Referer] => http://localhost/GAME/howtoplay.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=vb9ac173131bgjp8cck2l7slhq
+)
+
+[20-May-2025 06:53:54 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => andy
+    [role] => user
+)
+
+[20-May-2025 06:53:54 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 06:53:54 Europe/Berlin] Database connection successful
+[20-May-2025 06:53:57 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 06:53:57 Europe/Berlin] Raw POST data: 
+[20-May-2025 06:53:57 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 06:53:57 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 06:53:57 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?1
+    [sec-ch-ua-platform] => "Android"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Referer] => http://localhost/GAME/patchnotes.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=vb9ac173131bgjp8cck2l7slhq
+)
+
+[20-May-2025 06:53:57 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => andy
+    [role] => user
+)
+
+[20-May-2025 06:53:57 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 06:53:57 Europe/Berlin] Database connection successful
+[20-May-2025 07:01:31 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 07:01:31 Europe/Berlin] Raw POST data: 
+[20-May-2025 07:01:31 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 07:01:31 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 07:01:31 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "Windows"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Referer] => http://localhost/GAME/community-forum.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=vb9ac173131bgjp8cck2l7slhq
+)
+
+[20-May-2025 07:01:31 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => andy
+    [role] => user
+)
+
+[20-May-2025 07:01:31 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 07:01:31 Europe/Berlin] Database connection successful
+[20-May-2025 07:05:34 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 07:05:34 Europe/Berlin] Raw POST data: 
+[20-May-2025 07:05:34 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 07:05:34 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 07:05:34 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "Windows"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Referer] => http://localhost/GAME/community-forum.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=vb9ac173131bgjp8cck2l7slhq
+)
+
+[20-May-2025 07:05:34 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => andy
+    [role] => user
+)
+
+[20-May-2025 07:05:34 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 07:05:34 Europe/Berlin] Database connection successful
+[20-May-2025 07:07:29 Europe/Berlin] Script started - Request method: POST
+[20-May-2025 07:07:29 Europe/Berlin] Raw POST data: 
+[20-May-2025 07:07:29 Europe/Berlin] POST data: Array
+(
+    [post_id] => 1
+    [category] => general
+    [title] => Welcome to Court Card Slash
+    [content] => I thank you for you to try our game called Court Card Slash, we are welcoming your opinions regarding on how to improve our game..
+    [action] => edit_post
+)
+
+[20-May-2025 07:07:29 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 07:07:29 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 686
+    [sec-ch-ua-platform] => "Windows"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+    [sec-ch-ua] => "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99"
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryDfzrMW9U10sAHblb
+    [sec-ch-ua-mobile] => ?0
+    [Accept] => */*
+    [Sec-GPC] => 1
+    [Accept-Language] => en-US,en;q=0.7
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/GAME/admin/admin-community-forum.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Cookie] => PHPSESSID=tn7lcj6ncmcr1ioj3ah2ei6dtd
+)
+
+[20-May-2025 07:07:29 Europe/Berlin] Session data: Array
+(
+    [user_id] => 3
+    [user_name] => Admin(2)
+    [role] => admin
+)
+
+[20-May-2025 07:07:29 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 07:07:29 Europe/Berlin] Database connection successful
+[20-May-2025 09:11:18 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 09:11:18 Europe/Berlin] Raw POST data: 
+[20-May-2025 09:11:18 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 09:11:18 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 09:11:18 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "Windows"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+[20-May-2025 09:11:18 Europe/Berlin] Session data: Array
+(
+)
+
+[20-May-2025 09:11:18 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 09:11:18 Europe/Berlin] Database connection successful
+[20-May-2025 09:11:33 Europe/Berlin] Script started - Request method: POST
+[20-May-2025 09:11:33 Europe/Berlin] Raw POST data: 
+[20-May-2025 09:11:33 Europe/Berlin] POST data: Array
+(
+    [email] => admin@gmail.com
+    [password] => admin
+)
+
+[20-May-2025 09:11:33 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 09:11:33 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 251
+    [sec-ch-ua-platform] => "Windows"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryfrpUwqDg5Vp7I4Sm
+    [sec-ch-ua-mobile] => ?0
+    [Accept] => */*
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/GAME/game.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=rj76kksaa14pjvn77v67n6qt7c
+)
+
+[20-May-2025 09:11:33 Europe/Berlin] Session data: Array
+(
+)
+
+[20-May-2025 09:11:33 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 09:11:33 Europe/Berlin] Database connection successful
+[20-May-2025 09:11:53 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 09:11:53 Europe/Berlin] Raw POST data: 
+[20-May-2025 09:11:53 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 09:11:53 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 09:11:53 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "Windows"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=rj76kksaa14pjvn77v67n6qt7c
+)
+
+[20-May-2025 09:11:53 Europe/Berlin] Session data: Array
+(
+    [user_id] => 3
+    [user_name] => Admin
+    [role] => admin
+)
+
+[20-May-2025 09:11:53 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 09:11:53 Europe/Berlin] Database connection successful
+[20-May-2025 09:12:05 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 09:12:05 Europe/Berlin] Raw POST data: 
+[20-May-2025 09:12:05 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 09:12:05 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 09:12:05 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Chromium";v="136", "Microsoft Edge";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "Windows"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+[20-May-2025 09:12:05 Europe/Berlin] Session data: Array
+(
+)
+
+[20-May-2025 09:12:05 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 09:12:05 Europe/Berlin] Database connection successful
+[20-May-2025 09:12:20 Europe/Berlin] Script started - Request method: POST
+[20-May-2025 09:12:20 Europe/Berlin] Raw POST data: 
+[20-May-2025 09:12:20 Europe/Berlin] POST data: Array
+(
+    [email] => andy@gmail.com
+    [password] => andy
+)
+
+[20-May-2025 09:12:20 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 09:12:20 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 249
+    [sec-ch-ua-platform] => "Windows"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+    [sec-ch-ua] => "Chromium";v="136", "Microsoft Edge";v="136", "Not.A/Brand";v="99"
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryDvDw1kzIQIAUr3wB
+    [sec-ch-ua-mobile] => ?0
+    [Accept] => */*
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/GAME/game.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=2ksbd8um8kek1n4dm5jl3lveh6
+)
+
+[20-May-2025 09:12:20 Europe/Berlin] Session data: Array
+(
+)
+
+[20-May-2025 09:12:20 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 09:12:20 Europe/Berlin] Database connection successful
+[20-May-2025 09:12:20 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 09:12:20 Europe/Berlin] Raw POST data: 
+[20-May-2025 09:12:20 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 09:12:20 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 09:12:20 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Chromium";v="136", "Microsoft Edge";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "Windows"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Referer] => http://localhost/GAME/game.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=2ksbd8um8kek1n4dm5jl3lveh6
+)
+
+[20-May-2025 09:12:20 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => andy
+    [role] => user
+)
+
+[20-May-2025 09:12:20 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 09:12:20 Europe/Berlin] Database connection successful
+[20-May-2025 09:13:42 Europe/Berlin] Script started - Request method: GET
+[20-May-2025 09:13:42 Europe/Berlin] Raw POST data: 
+[20-May-2025 09:13:42 Europe/Berlin] POST data: Array
+(
+)
+
+[20-May-2025 09:13:42 Europe/Berlin] GET data: Array
+(
+)
+
+[20-May-2025 09:13:42 Europe/Berlin] Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Cache-Control] => max-age=0
+    [sec-ch-ua] => "Chromium";v="136", "Microsoft Edge";v="136", "Not.A/Brand";v="99"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "Windows"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Referer] => http://localhost/GAME/game.php
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => PHPSESSID=2ksbd8um8kek1n4dm5jl3lveh6
+)
+
+[20-May-2025 09:13:42 Europe/Berlin] Session data: Array
+(
+    [user_id] => 1
+    [user_name] => andy
+    [role] => user
+)
+
+[20-May-2025 09:13:42 Europe/Berlin] Attempting database connection to: localhost, login_system
+[20-May-2025 09:13:42 Europe/Berlin] Database connection successful

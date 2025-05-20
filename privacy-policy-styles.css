@@ -1,0 +1,364 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #000000;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    height: 60px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.left-nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.logo img {
+    height: 40px;
+    width: auto;
+}
+
+.user-welcome {
+    color: #ffffff;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.right-nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+nav {
+    display: flex;
+    gap: 2rem;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: color 0.3s ease;
+    padding: 0.5rem 0;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-align: left;
+    text-transform: uppercase;
+    padding: 1.5rem 0;
+    margin-top: 2rem;
+    color: #ffffff;
+}
+
+nav a:hover {
+    color: #ff4655;
+}
+
+nav a.active {
+    color: #ff4655;
+    border-bottom: 2px solid #ff4655;
+    padding-bottom: 0.3rem;
+}
+
+/* Legal Pages Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+body {
+    background: #0a0a0a;
+    color: #ffffff;
+    min-height: 100vh;
+}
+
+.legal-container {
+    padding: 50px 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.legal-container h1 {
+    text-align: center;
+    color: #ff4655;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    font-weight: 700;
+}
+
+.last-updated {
+    text-align: center;
+    color: #888;
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+}
+
+.legal-section {
+    background: #1a1a1a;
+    padding: 2.5rem;
+    border-radius: 20px;
+    margin-bottom: 2rem;
+    border: 2px solid #2a2a2a;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.legal-section h2 {
+    color: #ff4655;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: 2px solid #2a2a2a;
+    padding-bottom: 0.5rem;
+}
+
+.legal-section p {
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    color: #b3b3b3;
+    font-size: 1.1rem;
+}
+
+/* Footer Styles */
+footer {
+    background: #1a1a1a;
+    padding: 2rem;
+    margin-top: 3rem;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 2rem 0;
+}
+
+.social-links {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.social-links a {
+    color: #fff;
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #007bff;
+}
+
+.account-links {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.account-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: background-color 0.3s ease;
+}
+
+.account-links a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.account-links span {
+    color: #fff;
+    font-weight: 500;
+}
+
+/* Mobile Menu Button */
+.mobile-menu-btn {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    z-index: 1002;
+}
+
+.mobile-menu-btn span {
+    width: 100%;
+    height: 3px;
+    background-color: #ffffff;
+    transition: all 0.3s ease;
+}
+
+/* Mobile Responsive Styles */
+@media (max-width: 768px) {
+    header {
+        padding: 0 1rem;
+    }
+
+    .mobile-menu-btn {
+        display: flex;
+    }
+
+    .right-nav {
+        position: fixed;
+        top: 60px;
+        left: -100%;
+        width: 100%;
+        height: calc(100vh - 60px);
+        background: rgba(0, 0, 0, 0.9);
+        flex-direction: column;
+        padding: 2rem;
+        transition: left 0.3s ease;
+        overflow-y: auto;
+    }
+
+    .right-nav.active {
+        left: 0;
+    }
+
+    .right-nav a {
+        font-size: 1.2rem;
+        padding: 1rem 0;
+        width: 100%;
+        text-align: center;
+        display: block;
+        color: #ffffff;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .right-nav a:last-child {
+        border-bottom: none;
+    }
+
+    .right-nav a:hover {
+        background: rgba(255, 255, 255, 0.1);
+    }
+
+    .right-nav a.active {
+        color: #ff4655;
+        background: rgba(255, 70, 85, 0.1);
+    }
+
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+
+    .game-library-content {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .game-library-text {
+        width: 100%;
+    }
+
+    .game-description {
+        flex-direction: column;
+    }
+
+    .description-column {
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    .media-slider {
+        width: 100%;
+        margin-top: 2rem;
+    }
+
+    .main-display {
+        height: 300px;
+    }
+
+    .thumbnails {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .thumb {
+        width: 60px;
+        height: 40px;
+    }
+
+    .preview-sections {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .preview-card {
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    .modal-content {
+        width: 95%;
+        margin: 10% auto;
+        padding: 1.5rem;
+    }
+
+    .left-nav {
+        gap: 1rem;
+    }
+
+    .logo img {
+        height: 30px;
+    }
+
+    .left-nav span,
+    .left-nav a {
+        font-size: 0.8rem;
+    }
+}
+
+/* Small Mobile Devices */
+@media (max-width: 480px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .play-button {
+        padding: 0.8rem 2rem;
+        font-size: 1rem;
+    }
+
+    .modal-content {
+        padding: 1rem;
+    }
+
+    .form-group input {
+        padding: 0.6rem 0.8rem;
+    }
+}

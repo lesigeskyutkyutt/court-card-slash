@@ -1,0 +1,259 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #0a0a0a;
+    color: #ffffff;
+}
+
+/* Header styles */
+header {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    backdrop-filter: blur(10px);
+}
+
+.logo img {
+    height: 40px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #ff4655;
+}
+
+/* Dashboard specific styles */
+.dashboard {
+    padding: 80px 20px 20px;
+    min-height: 100vh;
+    background: #0a0a0a;
+}
+
+.dashboard-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.welcome-section {
+    background: #1a1a1a;
+    padding: 2rem;
+    border-radius: 15px;
+    margin-bottom: 2rem;
+}
+
+.welcome-section h1 {
+    color: #ff4655;
+    margin-bottom: 0.5rem;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.stat-card {
+    background: #1a1a1a;
+    padding: 1.5rem;
+    border-radius: 15px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+}
+
+.stat-card h3 {
+    color: #ff4655;
+    margin-bottom: 0.5rem;
+}
+
+.stat-card p {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.game-section {
+    background: #1a1a1a;
+    padding: 2rem;
+    border-radius: 15px;
+    margin-bottom: 2rem;
+}
+
+.game-section h2 {
+    color: #ff4655;
+    margin-bottom: 1.5rem;
+}
+
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.game-card {
+    background: #2a2a2a;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.game-card:hover {
+    transform: translateY(-5px);
+}
+
+.game-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.game-info {
+    padding: 1.5rem;
+}
+
+.game-info h3 {
+    color: #ffffff;
+    margin-bottom: 0.5rem;
+}
+
+.game-info p {
+    color: #ccc;
+    margin-bottom: 1rem;
+}
+
+/* Button styles */
+.play-now-btn, .back-to-game {
+    background: #ff4655;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.play-now-btn:hover, .back-to-game:hover {
+    background: #ff5f6d;
+    transform: translateY(-2px);
+}
+
+.back-to-game {
+    margin-right: 1rem;
+}
+
+.logout-btn {
+    background: #333;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.logout-btn:hover {
+    background: #444;
+}
+
+/* Modal styles */
+.modal {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #1a1a1a;
+    padding: 2rem;
+    border-radius: 15px;
+    z-index: 100;
+    width: 400px;
+    box-shadow: 0 5px 30px rgba(0,0,0,0.3);
+}
+
+.modal h2 {
+    color: #ffffff;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.modal-bg {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.8);
+    z-index: 99;
+    backdrop-filter: blur(5px);
+}
+
+/* Form styles */
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 0.8rem;
+    border: 2px solid #333;
+    border-radius: 8px;
+    background: #2a2a2a;
+    color: #ffffff;
+    font-size: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: #ff4655;
+} 

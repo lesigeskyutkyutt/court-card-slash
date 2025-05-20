@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+body {
+    background: #0a0a0a;
+    min-height: 100vh;
+}
+
+/* Header Styles */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #0a0a0a;
+    padding: 0.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    height: 60px;
+}
+
+.logo {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 100%;
+    width: auto;
+}
+
+/* Navigation Styles */
+.left-nav {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.right-nav {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-left: auto;
+}
+
+nav a, nav span {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: color 0.3s ease;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    color: #ff4655;
+}
+
+/* Form Styles */
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 400px;
+    margin: 100px auto 0;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.btn {
+    background: #ff4655;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background: #ff5f6d;
+}
+
+.toggle-form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.download-section {
+    margin-top: 20px;
+    text-align: center;
+}
